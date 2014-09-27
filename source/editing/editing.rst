@@ -60,9 +60,9 @@ Remove from Selection		Alt + Right Mouse Button + :kbd:`⇧`
 OS X
 
 =====================	=======================================
-Select Block			Right Mouse Button + :kbd:`⌥`
-Add to Selection		:kbd:`⌘` + Right Mouse Button + :kbd:`⇧`
-Remove from Selection	:kbd:`⌘` + :kbd:`⇧` + Right Mouse Button + :kbd:`⇧`
+Select Block			Right Mouse Button/drag(trackpad) + :kbd:`⌥`
+Add to Selection		:kbd:`⌘` + Right Mouse Button/drag(trackpad) + :kbd:`⌥`
+Remove from Selection	:kbd:`⌘` + :kbd:`⇧` + :kbd:`⌥`+ left click on portion you wanna remove 
 =====================	=======================================
 
 
